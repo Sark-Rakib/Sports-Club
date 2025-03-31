@@ -1,0 +1,538 @@
+body{
+  background-color: rgb(32, 106, 111);
+  margin-left: 30px;
+}
+.header{
+  color: red;
+  font-weight: bold;
+  font-size: 2rem;
+}
+span{
+  color: white;
+  font-weight: bold;
+}
+.navigation{
+  color: white;
+  display: flex;
+ gap: 40px;
+  margin-left: 300px;
+  margin-top: -20px;
+}
+.navi-1{
+  color: rgb(245, 243, 243);
+}
+.navi-2{
+  color: rgb(245, 243, 243);
+}
+.navi-3{
+  color: rgb(245, 243, 243);
+}
+.navi-4{
+  color: rgb(245, 243, 243);
+}
+.navi-5{
+  color: rgb(245, 243, 243);
+}
+
+.lrm-1{
+  display: flex;
+  flex-direction:column;
+  color: white;
+  width: 25%;
+  margin-top: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.spn-1{
+  display: flex;
+  flex-direction:row;
+  color: red;
+}
+.lrm-2{
+  color: white;
+  width: 20%;
+  font-size:larger;
+  background-image:linear-gradient(to right,rgb(182, 208, 16),white);
+  background-clip: text;
+  color: transparent;
+}
+.spn-2{
+  color: red;
+}
+
+.btn-3{
+background-color: red;
+color: white;
+height: 40px;
+width: 130px;
+}
+.btn-4{
+  background-color: black;
+  color: red;
+  height: 40px;
+  width: 130px;
+  border: none;
+  }
+  img{
+    margin-left: 400px;
+    margin-top: -300px;
+    height: 500px;
+  }
+  .ball{
+    height: 500px;
+    width: 500px;
+    color: red;
+  }
+
+  .body-1{
+    background-image: url(https://wallpapercave.com/wp/5DMx8Xb.jpg);
+    background-size: cover;
+  }
+  .img-5{
+    height: 150px;
+    width: 150px;
+    margin-left: 90px;
+    margin-top: -252px;
+  }
+  .kala-1{
+    color: rgb(27, 22, 22);
+ height: 60px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 90px;
+ margin-top: -102px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .kala-2{
+  width: 150%;
+  margin-top: 30px;
+  margin-left: -47px;
+  }
+  .kala-3{
+color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+  }
+  .kala-4{
+    margin-top: -5px;
+  }
+
+
+  .kara-2{
+ color: rgb(27, 22, 22);
+ height: 60px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 320px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .img-2{
+    height: 150px;
+    width: 150px;
+    padding-top: 320px;
+    margin-left: 320px;
+   
+  }
+  .mala-1{
+    display: flex;
+    flex-direction:row;
+   margin-top: 30px;
+   width: 200%;
+   margin-left: -14px;
+  }
+  .mala-2{
+margin-top: -10px;
+margin-left: -70px;
+color: red;
+  }
+  .mala-9{
+    margin-top: -5px;
+  }
+
+  .img-3{
+    height: 150px;
+    width: 150px;
+    padding-top: 50px;
+    margin-left: 550px;
+  }
+  .kara-4{
+    color: rgb(27, 22, 22);
+ height: 100px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 550px;
+ margin-top: -140px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .mala-3{
+    width: 150%;
+    margin-top: 70px;
+    margin-left: -52px;
+   }
+   .mala-10{
+    color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+   }
+   .mala-4{
+    
+     margin-top: -5px;
+     
+   }
+  .img-4{
+    height: 150px;
+    width: 150px;
+    margin-left: 780px;
+    padding-top: 50px;
+    
+  }
+  .kara-6{
+ color: rgb(27, 22, 22);
+ height: 100px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 780px;
+ margin-top: -140px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .mala-5{
+    width: 150%;
+    margin-left: -29px;
+    margin-top: 70px;
+  }
+  .mala-11{
+    color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+  }
+  .mala-6{
+    margin-top: -5px;
+  }
+  .img-6{
+    height: 150px;
+    width: 150px;
+    margin-left: 1010px;
+    padding-top: 50px;
+    
+  }
+  .kara-8{
+ color: rgb(27, 22, 22);
+ height: 100px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 1010px;
+ margin-top: -140px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .mala-7{
+    width: 150%;
+    margin-left: -43px;
+    margin-top: 70px;
+  }
+  .mala-12{
+    color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+  }
+  .mala-8{
+    margin-top: -5px;
+  }
+  .img-7{
+    height: 150px;
+    width: 150px;
+    margin-left: 1230px;
+    padding-top: 50px;
+    
+  }
+  .kara-10{
+ color: rgb(27, 22, 22);
+ height: 100px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 1230px;
+ margin-top: -140px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .mala-44{
+    width: 150%;
+    margin-left: -43px;
+    margin-top: 70px;
+  }
+  .mala-21{
+    color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+  }
+  .mala-13{
+    margin-top: -5px;
+  }
+  .img-8{
+    height: 150px;
+    width: 150px;
+    margin-left: 200px;
+    padding-top: 370px;
+    
+  }
+  .kara-12{
+ color: rgb(27, 22, 22);
+ height: 100px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 200px;
+ margin-top: -45px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .mala-45{
+    width: 150%;
+    margin-left: -43px;
+    margin-top: 70px;
+  }
+  .mala-46{
+    color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+  }
+  .mala-47{
+    margin-top: -5px;
+  }
+  .img-9{
+    height: 150px;
+    width: 150px;
+    margin-left: 430px;
+    padding-top: 55px;
+    
+  }
+  .kara-14{
+ color: rgb(27, 22, 22);
+ height: 100px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 430px;
+ margin-top: -140px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .mala-48{
+    width: 150%;
+    margin-left: -62px;
+    margin-top: 70px;
+  }
+  .mala-49{
+    color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+  }
+  .mala-50{
+    margin-top: -5px;
+  }
+  .img-10{
+    height: 150px;
+    width: 150px;
+    margin-left: 660px;
+    padding-top: 55px;
+    
+  }
+  .kara-16{
+ color: rgb(27, 22, 22);
+ height: 100px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 660px;
+ margin-top: -140px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .mala-51{
+    width: 150%;
+    margin-left: -29px;
+    margin-top: 70px;
+  }
+  .mala-52{
+    color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+  }
+  .mala-53{
+    margin-top: -5px;
+  }
+  .img-11{
+    height: 150px;
+    width: 150px;
+    margin-left: 890px;
+    padding-top: 55px;
+    
+  }
+  .kara-18{
+ color: rgb(27, 22, 22);
+ height: 100px;
+ width: 110px;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ justify-content: center;
+ padding: 20px;
+ margin-left: 890px;
+ margin-top: -140px;
+ font-family:cursive;
+ background-color: antiquewhite;
+  }
+  .mala-54{
+    width: 150%;
+    margin-left: -36px;
+    margin-top: 70px;
+  }
+  .mala-55{
+    color: red;
+    margin-left: -70px;
+    margin-top: -10px;
+  }
+  .mala-56{
+    margin-top: -5px;
+  }
+  
+
+  .body-5{
+    background-image: url(image/thumb-1920-1056938.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    padding-top: 100px;
+    font-size: 3rem;
+  }
+  ol{
+    background-image: linear-gradient(to right,black,rgb(182, 208, 16));
+    background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .body-3{
+background-color: rgb(60, 137, 137);
+display: flex;
+flex-direction: column;
+text-align: center;
+padding-top: 500px;
+  }
+  .body-10{
+background-image: url("");
+background-size: cover;
+background-repeat: no-repeat;
+  }
+  .hello{
+    height: 400px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-image: linear-gradient(skyblue,white);
+    margin-top: 150px;
+    margin-left: 500px;
+    border-radius: 10px;
+  }
+  .hello-1{
+    height: 20px;
+    width: 300px;
+    background-color: antiquewhite;
+    margin-left:  10px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 3px;
+  }
+  .span-10{
+    color: peru;
+    margin-left: 5px;
+  }
+  .span-11{
+    color:red;
+    margin-right: 5px;
+  }
+  .hello-4{
+    height: 20px;
+    width: 160px;
+    background-color: antiquewhite;
+    margin-left:  330px;
+    margin-top: -120px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 3px;
+  }
+  .hello-5{
+    height: 20px;
+    width: 160px;
+    background-color: antiquewhite;
+    margin-left:  330px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 3px;
+  }
+  .hello-6{
+    height: 20px;
+    width: 160px;
+    background-color: antiquewhite;
+    margin-left:  330px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 3px;
+  }
+  .span-14{
+color: peru;
+  }
+  .span-12{
+    color: orange;
+    margin-right: 5px;
+  }
+  .span-13{
+    color: rgb(8, 155, 8);
+    margin-right: 5px;
+  }
+  

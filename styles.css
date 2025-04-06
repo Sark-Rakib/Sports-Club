@@ -448,7 +448,7 @@ color: red;
     font-size: 3rem;
   }
   ol{
-    background-image: linear-gradient(to right,black,rgb(182, 208, 16));
+    background-image: linear-gradient(to right,rgb(249, 244, 244),rgb(45, 94, 54));
     background-clip: text;
     color: transparent;
     font-weight: bold;
